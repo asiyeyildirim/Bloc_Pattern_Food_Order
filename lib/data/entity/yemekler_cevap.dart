@@ -2,6 +2,8 @@ import 'package:food_order/data/entity/sepet_yemek.dart';
 import 'package:food_order/data/entity/yemek.dart';
 
 
+//Sepet ve Yemekler Cevap içerir
+
 class YemeklerCevap{
 
   List<Yemekler> yemekler;
